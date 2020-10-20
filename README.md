@@ -1,2 +1,0 @@
-# IdleRPG
- Idle RPG Forsbergs
